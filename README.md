@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I spent a lot of time reading over the Swift documentation and other online resources to incorporate the additional features. A few features I looked into but never had the chance/time to implement it with the time I had left when I started. I had issues with the simulator sometimes flashing areas of the screen black but for some reason, the gif seems to exacerbate the issue.
+I spent a lot of time reading over the Swift documentation and other online resources to incorporate the additional features. A few features I looked into but never had the chance/time to implement it with the time I had left when I started. I had issues with the simulator sometimes flashing areas of the screen black but for some reason, the gif seems to exacerbate the issue. I need to look into more efficient methods of coding ui animations as well.
 
 ## License
 
